@@ -1,6 +1,6 @@
 name = "cf-proxy-pool"
 main = "worker.js"
-compatibility_date = "2024-01-01"
+compatibility_date = "2026-01-01"
 
 # Set these via `wrangler secret put`:
 # CF_API_TOKEN - Your Cloudflare API token with Workers edit permission
