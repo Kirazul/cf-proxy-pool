@@ -15,7 +15,7 @@ A Cloudflare Worker that deploys and manages a pool of proxy workers for request
 
 ```bash
 # Clone and deploy
-git clone https://github.com/YOUR_USERNAME/cf-proxy-pool.git
+git clone https://github.com/Kirazul/cf-proxy-pool.git
 cd cf-proxy-pool
 npm install -g wrangler
 wrangler deploy

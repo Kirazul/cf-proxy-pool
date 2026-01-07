@@ -9,7 +9,7 @@
  * - CF_ACCOUNT_ID: Your Cloudflare account ID
  * - API_KEY: Secret key for admin endpoints (optional)
  * 
- * @see https://github.com/YOUR_USERNAME/cf-proxy-pool
+ * @see https://github.com/Kirazul/cf-proxy-pool
  */
 
 const PROXY_WORKER_SCRIPT = `addEventListener('fetch', e => e.respondWith(handleRequest(e.request)));
